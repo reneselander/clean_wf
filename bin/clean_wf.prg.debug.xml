@@ -44,8 +44,7 @@
         <entry filename="Rez" id="25" lineNum="18" pc="268436085" symbol="WatchFace"/>
         <entry filename="Rez" id="25" lineNum="20" pc="268436097" symbol="WatchFace"/>
         <entry filename="Rez" id="25" lineNum="21" pc="268436176" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="22" pc="268436200" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="24" pc="268436363" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="23" pc="268436339" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -120,10 +119,9 @@
         <entry arg="true" endPc="268435958" name="dc" stackId="1" startPc="268435651"/>
         <entry endPc="268436018" name="dictionary" stackId="1" startPc="268435977"/>
         <entry arg="true" endPc="268436085" name="dc" stackId="1" startPc="268436019"/>
-        <entry endPc="268436400" name="rez_cmp_local_custom_drawable_11614790164380565138" stackId="3" startPc="268436097"/>
-        <entry endPc="268436400" name="rez_cmp_local_text_TimeLabel" stackId="4" startPc="268436097"/>
-        <entry endPc="268436400" name="rez_cmp_local_bitmap_pirateShip" stackId="2" startPc="268436097"/>
-        <entry arg="true" endPc="268436401" name="dc" stackId="1" startPc="268436085"/>
+        <entry endPc="268436366" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436097"/>
+        <entry endPc="268436366" name="rez_cmp_local_bitmap_pirateShip" stackId="2" startPc="268436097"/>
+        <entry arg="true" endPc="268436367" name="dc" stackId="1" startPc="268436085"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="pirateShip"/>
