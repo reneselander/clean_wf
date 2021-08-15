@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "clean_wf",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
