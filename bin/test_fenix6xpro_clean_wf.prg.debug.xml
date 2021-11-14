@@ -8,8 +8,8 @@
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfBackground.mc" id="2" lineNum="16" parent="globals/Background" pc="268435502" symbol="draw"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfBackground.mc" id="2" lineNum="18" parent="globals/Background" pc="268435506" symbol="draw"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfBackground.mc" id="2" lineNum="19" parent="globals/Background" pc="268435555" symbol="draw"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268437466" symbol="&lt;init&gt;"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268437466" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268436368" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268436368" symbol="&lt;init&gt;"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="5" lineNum="7" parent="globals/clean_wfApp" pc="268435568" symbol="initialize"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="5" lineNum="8" parent="globals/clean_wfApp" pc="268435572" symbol="initialize"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="6" lineNum="12" parent="globals/clean_wfApp" pc="268435591" symbol="onStart"/>
@@ -18,8 +18,8 @@
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="8" lineNum="21" parent="globals/clean_wfApp" pc="268435605" symbol="getInitialView"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="9" lineNum="25" parent="globals/clean_wfApp" pc="268435643" symbol="onSettingsChanged"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="9" lineNum="26" parent="globals/clean_wfApp" pc="268435647" symbol="onSettingsChanged"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="10" lineNum="5" parent="globals/clean_wfApp" pc="268437534" symbol="&lt;init&gt;"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="10" lineNum="5" parent="globals/clean_wfApp" pc="268437534" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="10" lineNum="5" parent="globals/clean_wfApp" pc="268436436" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="10" lineNum="5" parent="globals/clean_wfApp" pc="268436436" symbol="&lt;init&gt;"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="11" lineNum="31" parent="globals" pc="268435664" symbol="getApp"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfApp.mc" id="11" lineNum="32" parent="globals" pc="268435676" symbol="getApp"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="13" lineNum="9" parent="globals/clean_wfView" pc="268435693" symbol="initialize"/>
@@ -41,36 +41,28 @@
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="16" lineNum="43" parent="globals/clean_wfView" pc="268435974" symbol="onUpdate"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="16" lineNum="44" parent="globals/clean_wfView" pc="268435998" symbol="onUpdate"/>
         <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="16" lineNum="45" parent="globals/clean_wfView" pc="268436035" symbol="onUpdate"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="16" lineNum="50" parent="globals/clean_wfView" pc="268436049" symbol="onUpdate"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="17" lineNum="57" parent="globals/clean_wfView" pc="268436070" symbol="onHide"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="18" lineNum="61" parent="globals/clean_wfView" pc="268436075" symbol="onExitSleep"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="19" lineNum="65" parent="globals/clean_wfView" pc="268436080" symbol="onEnterSleep"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="20" lineNum="7" parent="globals/clean_wfView" pc="268437515" symbol="&lt;init&gt;"/>
-        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="20" lineNum="7" parent="globals/clean_wfView" pc="268437515" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="22" lineNum="2" parent="globals/Rez/Drawables" pc="268437509" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="23" lineNum="7" parent="globals/Rez/Fonts" pc="268437511" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="24" lineNum="9" parent="globals/Rez/JsonData" pc="268437513" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="16" lineNum="48" parent="globals/clean_wfView" pc="268436049" symbol="onUpdate"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="17" lineNum="54" parent="globals/clean_wfView" pc="268436070" symbol="onHide"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="18" lineNum="58" parent="globals/clean_wfView" pc="268436075" symbol="onExitSleep"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="19" lineNum="62" parent="globals/clean_wfView" pc="268436080" symbol="onEnterSleep"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="20" lineNum="7" parent="globals/clean_wfView" pc="268436417" symbol="&lt;init&gt;"/>
+        <entry filename="D:\\dev\\monkeyc\\clean_wf\\source\\clean_wfView.mc" id="20" lineNum="7" parent="globals/clean_wfView" pc="268436417" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="2" parent="globals/Rez/Drawables" pc="268436411" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="7" parent="globals/Rez/Fonts" pc="268436413" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="9" parent="globals/Rez/JsonData" pc="268436415" symbol="&lt;init&gt;"/>
         <entry filename="Rez" id="25" lineNum="18" parent="globals/Rez/Layouts" pc="268436085" symbol="WatchFace"/>
         <entry filename="Rez" id="25" lineNum="20" parent="globals/Rez/Layouts" pc="268436097" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="21" parent="globals/Rez/Layouts" pc="268436216" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="22" parent="globals/Rez/Layouts" pc="268436268" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="23" parent="globals/Rez/Layouts" pc="268436431" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="24" parent="globals/Rez/Layouts" pc="268436591" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="25" parent="globals/Rez/Layouts" pc="268436744" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="26" parent="globals/Rez/Layouts" pc="268436904" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="27" parent="globals/Rez/Layouts" pc="268437064" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="28" parent="globals/Rez/Layouts" pc="268437217" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="30" parent="globals/Rez/Layouts" pc="268437377" symbol="WatchFace"/>
-        <entry filename="Rez" id="26" lineNum="11" parent="globals/Rez/Layouts" pc="268437512" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="27" lineNum="35" parent="globals/Rez/Menus" pc="268437510" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="28" lineNum="37" parent="globals/Rez/Strings" pc="268437514" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="29" lineNum="1" parent="globals/Rez" pc="268437485" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="29" lineNum="1" parent="globals/Rez" pc="268437485" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="21" parent="globals/Rez/Layouts" pc="268436176" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="23" parent="globals/Rez/Layouts" pc="268436339" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="11" parent="globals/Rez/Layouts" pc="268436414" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="28" parent="globals/Rez/Menus" pc="268436412" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="30" parent="globals/Rez/Strings" pc="268436416" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="1" parent="globals/Rez" pc="268436387" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="1" parent="globals/Rez" pc="268436387" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
         <entry id="10" object="true" symbol="clean_wfView"/>
-        <entry id="8389346" symbol="text"/>
         <entry field="true" id="13" symbol="pirateShip"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
@@ -141,15 +133,9 @@
         <entry endPc="268436068" name="clockTime" stackId="3" startPc="268435767"/>
         <entry endPc="268436068" name="timeFormat" stackId="2" startPc="268435767"/>
         <entry arg="true" endPc="268436069" name="dc" stackId="1" startPc="268435763"/>
-        <entry endPc="268437463" name="rez_cmp_local_text_DateDisplay" stackId="8" startPc="268436097"/>
-        <entry endPc="268437463" name="rez_cmp_local_text_HeartrateDisplay" stackId="5" startPc="268436097"/>
-        <entry endPc="268437463" name="rez_cmp_local_text_BatteryDisplay" stackId="4" startPc="268436097"/>
-        <entry endPc="268437463" name="rez_cmp_local_text_StepCountDisplay" stackId="6" startPc="268436097"/>
-        <entry endPc="268437463" name="rez_cmp_local_bitmap_pirateShip" stackId="2" startPc="268436097"/>
-        <entry endPc="268437463" name="rez_cmp_local_text_MessageCountDisplay" stackId="9" startPc="268436097"/>
-        <entry endPc="268437463" name="rez_cmp_local_text_StepGoalDisplay" stackId="7" startPc="268436097"/>
-        <entry endPc="268437463" name="rez_cmp_local_text_TimeDisplay" stackId="3" startPc="268436097"/>
-        <entry arg="true" endPc="268437464" name="dc" stackId="1" startPc="268436085"/>
+        <entry endPc="268436365" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436097"/>
+        <entry endPc="268436365" name="rez_cmp_local_bitmap_pirateShip" stackId="2" startPc="268436097"/>
+        <entry arg="true" endPc="268436366" name="dc" stackId="1" startPc="268436085"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="pirateShip"/>
@@ -186,7 +172,7 @@
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437484" name="&lt;init&gt;" parent="Background" startPc="268437466">
+        <functionEntry accessMode="protected" endPc="268436386" name="&lt;init&gt;" parent="Background" startPc="268436368">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268435590" name="initialize" parent="clean_wfApp" startPc="268435568">
@@ -206,7 +192,7 @@
         <functionEntry accessMode="public" endPc="268435663" name="onSettingsChanged" parent="clean_wfApp" startPc="268435643">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437552" name="&lt;init&gt;" parent="clean_wfApp" startPc="268437534">
+        <functionEntry accessMode="protected" endPc="268436454" name="&lt;init&gt;" parent="clean_wfApp" startPc="268436436">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268435692" name="getApp" startPc="268435664">
@@ -235,32 +221,32 @@
         <functionEntry accessMode="public" endPc="268436084" name="onEnterSleep" parent="clean_wfView" startPc="268436080">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437533" name="&lt;init&gt;" parent="clean_wfView" startPc="268437515">
+        <functionEntry accessMode="protected" endPc="268436435" name="&lt;init&gt;" parent="clean_wfView" startPc="268436417">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437509" name="&lt;init&gt;" parent="Drawables" startPc="268437509">
+        <functionEntry accessMode="protected" endPc="268436411" name="&lt;init&gt;" parent="Drawables" startPc="268436411">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437511" name="&lt;init&gt;" parent="Fonts" startPc="268437511">
+        <functionEntry accessMode="protected" endPc="268436413" name="&lt;init&gt;" parent="Fonts" startPc="268436413">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437513" name="&lt;init&gt;" parent="JsonData" startPc="268437513">
+        <functionEntry accessMode="protected" endPc="268436415" name="&lt;init&gt;" parent="JsonData" startPc="268436415">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437464" name="WatchFace" parent="Layouts" startPc="268436085">
+        <functionEntry accessMode="public" endPc="268436366" name="WatchFace" parent="Layouts" startPc="268436085">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437512" name="&lt;init&gt;" parent="Layouts" startPc="268437512">
+        <functionEntry accessMode="protected" endPc="268436414" name="&lt;init&gt;" parent="Layouts" startPc="268436414">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437510" name="&lt;init&gt;" parent="Menus" startPc="268437510">
+        <functionEntry accessMode="protected" endPc="268436412" name="&lt;init&gt;" parent="Menus" startPc="268436412">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437514" name="&lt;init&gt;" parent="Strings" startPc="268437514">
+        <functionEntry accessMode="protected" endPc="268436416" name="&lt;init&gt;" parent="Strings" startPc="268436416">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268437508" name="&lt;init&gt;" parent="Rez" startPc="268437485">
+        <functionEntry accessMode="protected" endPc="268436410" name="&lt;init&gt;" parent="Rez" startPc="268436387">
             <documentation/>
         </functionEntry>
     </functions>

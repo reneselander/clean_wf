@@ -40,12 +40,15 @@ class clean_wfView extends WatchUi.WatchFace {
         var timeString = Lang.format(timeFormat, [hours, clockTime.min.format("%02d")]);
 
         // Update the view
-        var view = View.findDrawableById("TimeLabel") as Text;
+        var view = View.findDrawableById("TimeDisplay") as Text;
         view.setColor(getApp().getProperty("ForegroundColor") as Number);
         view.setText(timeString);
 
         // Call the parent onUpdate function to redraw the layout
+        
+
         View.onUpdate(dc);
+        
     }
 
     // Called when this View is removed from the screen. Save the
